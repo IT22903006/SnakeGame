@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Snake Game</string>
+
+    <string name="score">Score</string>
+    <string name="new_game">New Game</string>
+    <string name="resume_game">Resume Game</string>
+    <string name="play_again">Game Over! Play Again</string>
+    <string name="up">UP</string>
+    <string name="down">DOWN</string>
+    <!-- Add other string resources for left, right, pause as needed -->
+
+</resources>
